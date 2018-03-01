@@ -1,0 +1,27 @@
+{
+  "name": "webkit-gulp",
+  "version": "1.0.0",
+  "description": "WebkitGulp",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp",
+    "run": "gulp run",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mthomas3/webkit-gulp.git"
+  },
+  "author": "Mthomas3",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Mthomas3/webkit-gulp/issues"
+  },
+  "homepage": "https://github.com/Mthomas3/webkit-gulp#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.1",
+    "gulp-cli": "^2.0.1"
+  }
+}
