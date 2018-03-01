@@ -4,6 +4,7 @@
   "description": "WebkitGulp",
   "main": "index.js",
   "scripts": {
+    "prestart": "npm install",
     "start": "gulp",
     "run": "gulp run",
     "test": "echo \"Error: no test specified\" && exit 1"
