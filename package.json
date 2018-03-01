@@ -6,7 +6,7 @@
   "scripts": {
     "prestart": "npm install",
     "start": "gulp",
-    "run": "gulp run",
+    "launch": "gulp launch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

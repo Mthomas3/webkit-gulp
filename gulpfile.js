@@ -1,8 +1,5 @@
-var gulp = require('gulp')
+const gulp = require('gulp')
 
-
-gulp.task('default', () => {
-
-  console.log("nothing")
-
+gulp.task('launch', () => {
+  console.log("launch");
 })
